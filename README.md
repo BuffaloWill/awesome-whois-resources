@@ -2,6 +2,7 @@
 
 - [Protocol Information](#Protocol)
 - [Reconnaissance](#Reconnaissance)
+  - [Data Brokers and Reverse WHOIS APIs](#Data Brokers and Reverse WHOIS APIs)
 - [RDAP](#RDAP)
 
 ## Protocol
@@ -10,7 +11,7 @@
 
 ## Reconnaissance
 
-### Data Brokers 
+### Data Brokers and Reverse WHOIS APIs
 
 - [WHOXY](https://www.whoxy.com/)
 - [Security Trails](https://securitytrails.com/)
