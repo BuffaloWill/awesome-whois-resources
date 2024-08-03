@@ -11,6 +11,8 @@
 
 ## Reconnaissance
 
+- [Get Alerted on Newly Registered Domains of Interest - whoiswatcher](https://github.com/BuffaloWill/whoiswatcher)
+
 ### Data Brokers and Reverse WHOIS APIs
 
 - [WHOXY](https://www.whoxy.com/)
@@ -19,3 +21,8 @@
 - [WHOISDS](https://www.whoisxmlapi.com/)
 
 ## RDAP
+
+- [List of Registrars Supporting RDAP](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
+- [RDAP to WHOIS proxy](https://github.com/redirect2me/rdap-proxy)
+
+
