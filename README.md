@@ -2,7 +2,7 @@
 
 - [Protocol Information](#Protocol)
 - [Reconnaissance](#Reconnaissance)
-  - [Data Brokers and Reverse WHOIS APIs](#Data Brokers and Reverse WHOIS APIs)
+  - [Data Brokers and Reverse WHOIS APIs](#Data%20Brokers%20and%20Reverse%20WHOIS%20APIs)
 - [RDAP](#RDAP)
 
 ## Protocol
