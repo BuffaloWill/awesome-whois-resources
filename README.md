@@ -1,16 +1,18 @@
 # awesome-whois-resources - Table of Contents
 
-- [Protocol Information](#Protocol)
+- [Protocol Analysis and Applied Research](#Protocol%20Analysis%20and%20Applied%20Research)
 - [Reconnaissance](#Reconnaissance)
   - [Data Brokers and Reverse WHOIS APIs](#Data%20Brokers%20and%20Reverse%20WHOIS%20APIs)
 - [RDAP](#RDAP)
-- [Applied Research](#Applied%20Research)
+- [WHOIS - RFC 3912](https://datatracker.ietf.org/doc/html/rfc3912)
 
-## Protocol
+
+## Protocol Analysis and Applied Research
 
 - [WHOIS: Fragile, unparseable, obsolete... and universally relied upon](https://www.netmeister.org/blog/whois.html)
+- [WHOISXMLAPI Research White Papers](https://main.whoisxmlapi.com/wxa-research-center/white-papers)
 
-## WHOIS Specific Reconnaissance
+## WHOIS Specific Reconnaissance Tools
 
 - [Get Alerted on Newly Registered Domains of Interest - whoiswatcher](https://github.com/BuffaloWill/whoiswatcher)
 - [Nuclei Template - RDAP](https://github.com/projectdiscovery/nuclei-templates/blob/main/http/miscellaneous/rdap-whois.yaml)
@@ -28,6 +30,3 @@
 - [List of Registrars Supporting RDAP](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
 - [RDAP to WHOIS proxy](https://github.com/redirect2me/rdap-proxy)
 
-## Applied Research
-
-- [WHOISXMLAPI Research White Papers](https://main.whoisxmlapi.com/wxa-research-center/white-papers)
