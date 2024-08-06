@@ -4,6 +4,7 @@
 - [Reconnaissance](#Reconnaissance)
   - [Data Brokers and Reverse WHOIS APIs](#Data%20Brokers%20and%20Reverse%20WHOIS%20APIs)
 - [RDAP](#RDAP)
+- [Applied Research](#Applied%20Research)
 
 ## Protocol
 
@@ -26,3 +27,7 @@
 
 - [List of Registrars Supporting RDAP](https://www.iana.org/assignments/registrar-ids/registrar-ids.xhtml)
 - [RDAP to WHOIS proxy](https://github.com/redirect2me/rdap-proxy)
+
+## Applied Research
+
+- [WHOISXMLAPI Research White Papers](https://main.whoisxmlapi.com/wxa-research-center/white-papers)
