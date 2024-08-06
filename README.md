@@ -1,8 +1,8 @@
 # awesome-whois-resources - Table of Contents
 
-- [Protocol Analysis and Applied Research](#Protocol%20Analysis%20and%20Applied%20Research)
+- [Protocol Analysis and Applied Research](#Protocol-Analysis-and-Applied-Research)
 - [Reconnaissance](#Reconnaissance)
-  - [Data Brokers and Reverse WHOIS APIs](#Data%20Brokers%20and%20Reverse%20WHOIS%20APIs)
+  - [Data Brokers and Reverse WHOIS APIs](#Data-Brokers-and-Reverse-WHOIS-APIs)
 - [RDAP](#RDAP)
 - [WHOIS - RFC 3912](https://datatracker.ietf.org/doc/html/rfc3912)
 
