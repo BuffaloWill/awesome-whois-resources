@@ -24,6 +24,7 @@
 - [Security Trails](https://securitytrails.com/)
 - [WHOISXMLAPI](https://www.whoisxmlapi.com/)
 - [WHOISDS](https://www.whoisds.com/)
+- [DomainTools](https://whois.domaintools.com/)
 
 ## RDAP
 
